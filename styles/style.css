@@ -37,6 +37,8 @@
   column-gap: 20px;
   list-style: none;
   margin-right: 40px;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .nav__link {
