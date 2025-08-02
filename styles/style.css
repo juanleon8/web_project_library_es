@@ -324,21 +324,21 @@ p {
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
+  column-gap: 40px;
 }
 
 .membership__steps {
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
-  /* Agrega estilos */
   display: flex;
   justify-content: center;
 }
 
 .step {
-  /* Agrega estilos */
   width: 220px;
   margin-left: 40px;
+  flex-basis: 220px;
 }
 
 .step__title {
